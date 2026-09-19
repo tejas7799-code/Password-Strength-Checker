@@ -111,19 +111,20 @@ The score is calculated based on the number of security criteria satisfied.
 
 ### Option 2: Run Using an Online Python Compiler
 
-You can run the project without installing Python by using an online Python compiler.
+The project can also be tested using an online Python compiler without installing Python.
 
-Steps:
+#### Steps:
 
-1.Open any online Python compiler such as Programiz, OnlineGDB, or Replit.
-2.Open password_strength_checker.py from this GitHub repository.
-3.Copy the complete Python code.
-4.Paste the code into the online Python editor.
-5.Click Run.
-6.Enter a password when prompted.
-7.The program will display the password strength and suggestions.
+1. Open an online Python compiler such as **Programiz, OnlineGDB, or Replit**.
+2. Open `password_strength_checker.py` from this GitHub repository.
+3. Copy the complete Python source code.
+4. Paste the code into the online Python editor.
+5. Click the **Run** button.
+6. Enter a password when prompted.
+7. The program will display the password strength and improvement suggestions.
 
-No external Python packages are required because the project uses Python's built-in re module.
+No external packages need to be installed because the project uses Python's built-in `re` module.
+
 
 ```bash
 python password_strength_checker.py
